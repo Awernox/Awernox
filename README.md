@@ -1,10 +1,5 @@
 <div align="center">
 
-# 👋 Hi, I'm **Short**
-
-### 🚀 Developer • Rust • C++ • TypeScript
-
-Building tools, apps and game-related projects.
 
 <br>
 
@@ -14,15 +9,6 @@ Building tools, apps and game-related projects.
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)](https://www.typescriptlang.org/)
 
 </div>
-
----
-
-
-## 🚀 Current projects
-
-| Project      | Description                              |
-| ------------ | ---------------------------------------- |
-| **SrcTools** | Speedrun moderation and management tools |
 
 
 <div align="center">
