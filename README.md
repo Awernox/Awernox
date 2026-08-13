@@ -17,35 +17,15 @@ Building tools, apps and game-related projects.
 
 ---
 
-## 🛠️ What I build
-
-* ⚡ Desktop applications
-* 🎮 Game tools & utilities
-* 🦀 Rust projects
-* 💻 C++ / TypeScript projects
-* 🔧 Developer tools
-
----
 
 ## 🚀 Current projects
 
 | Project      | Description                              |
 | ------------ | ---------------------------------------- |
 | **SrcTools** | Speedrun moderation and management tools |
-| **Bhop Ace** | Bhop game project                        |
-| **Shadow**   | Lightweight browser project              |
 
----
 
-## 💻 Technologies
 
-```text
-Rust          ███████████████████░░
-C++           ████████████████░░░░░
-TypeScript    ███████████████░░░░░░
-JavaScript    █████████████░░░░░░░
-Tauri         ██████████████░░░░░░
-Godot         ████████████░░░░░░░░
 ```
 
 ---
