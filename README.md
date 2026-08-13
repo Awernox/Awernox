@@ -23,29 +23,3 @@ Building tools, apps and game-related projects.
 | Project      | Description                              |
 | ------------ | ---------------------------------------- |
 | **SrcTools** | Speedrun moderation and management tools |
-
-
-
-```
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true" />
-
-</div>
-
----
-
-<div align="center">
-
-### Thanks for visiting! 👋
-
-⭐ Check out my repositories below.
-
-</div>
